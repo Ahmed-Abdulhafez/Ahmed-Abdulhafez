@@ -17,6 +17,7 @@
 I'm a Full-Stack Web Developer focused on creating modern, responsive, and scalable web applications.
 
 - ⚛️ React.js
+- ⚛️ Next.js
 - 🟢 Node.js & Express.js
 - 🍃 MongoDB & Mongoose
 - 🔐 Authentication & REST APIs
